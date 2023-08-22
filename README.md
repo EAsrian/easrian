@@ -1,8 +1,8 @@
 ![Header](https://github.com/EAsrian/easrian/blob/9744f53a4f443693b439bb8ede33798e5c109b4a/assets/giphy.gif)
 
-##I'm a QA Automation Engineer
+## I'm a QA Automation Engineer
 
-###Languages and Tools
+### Languages and Tools
 
 ![Header](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=&logoColor=E9D32C)
 ![Header](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=32CD32)
