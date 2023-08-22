@@ -3,6 +3,7 @@
 ##I'm a QA Automation Engineer
 
 ###Languages and Tools
+
 ![Header](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=&logoColor=E9D32C)
 ![Header](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=32CD32)
 ![Header](https://img.shields.io/badge/-JMeter-090909?style=for-the-badge&logo=apachejmeter&logoColor=FF6347)
@@ -12,4 +13,5 @@
 ![Header](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MySQL&logoColor=E9D32C)
 ![Header](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=FF4500)
 ![Header](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=FF4500)
+
 Follow Me
